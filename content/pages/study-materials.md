@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Discussion Board Topics: Prof. Chen asked a number of colleagues and
+  friends in China to submit thoughts on various topics, to which the students responded
+  via the course discussion board. Page lists links to the submissions by Prof. Chen''s
+  colleagues and friends on various topics. Section written in English and Chinese.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
